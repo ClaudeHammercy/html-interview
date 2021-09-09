@@ -1,0 +1,16 @@
+h1 {
+    border: 1px solid blueviolet;
+    color: chartreuse;
+    text-align: center;
+}
+li {
+    color: chocolate;
+    font-weight: bold;}
+
+.Him {
+    height: 250px;
+}
+
+.Me {
+    height: 250px;
+}
